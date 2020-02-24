@@ -48,3 +48,6 @@ Run test script:
 ```
 sh ./test-libunionpreload.sh
 ```
+# Credits
+
+* [Michael Terry](https://github.com/mikix/deb2snap/blob/master/src/preload.c)
